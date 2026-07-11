@@ -56,7 +56,7 @@ SpiderFoot collects massive amounts of data, **SpiderFoot URL Parser extracts wh
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/SpiderFoot-URL-Parser.git
+git clone https://github.com/mrflippermen/SpiderFoot-URL-Parser.git
 cd SpiderFoot-URL-Parser
 pip install -r requirements.txt  # No dependencies!
 ```
@@ -201,7 +201,7 @@ SpiderFoot-URL-Parser/
 ### Instalación
 
 ```bash
-git clone https://github.com/yourusername/SpiderFoot-URL-Parser.git
+git clone https://github.com/mrflippermen/SpiderFoot-URL-Parser.git
 cd SpiderFoot-URL-Parser
 # No requiere dependencias externas!
 ```
